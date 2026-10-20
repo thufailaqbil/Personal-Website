@@ -471,15 +471,15 @@ const AIWorkflowSection = () => {
 const InfiniteGallery = () => {
   // Ganti dengan path/variabel gambarmu yang sebenarnya
   const galleryRow1 = [
-    'public/assets/row-left/purplepass-login.webp', 'public/assets/row-left/darimata1.webp', 'public/assets/row-left/majalah.webp', 
-    'public/assets/row-left/payment.webp', 'public/assets/row-left/metode-pembayaran.webp', 'public/assets/row-left/plume.webp', 
-    'public/assets/row-left/amikompass-figma.webp', 'public/assets/row-left/purplepass.webp', 'public/assets/row-left/userbl.webp' 
+    '/assets/row-left/purplepass-login.webp', '/assets/row-left/darimata1.webp', '/assets/row-left/majalah.webp', 
+    '/assets/row-left/payment.webp', '/assets/row-left/metode-pembayaran.webp', '/assets/row-left/plume.webp', 
+    '/assets/row-left/amikompass-figma.webp', '/assets/row-left/purplepass.webp', '/assets/row-left/userbl.webp' 
   ];
   
   const galleryRow2 = [
-    'public/assets/row-right/cart-kk.webp', 'public/assets/row-right/cart-darimata.webp', 'public/assets/row-right/homebl.webp', 
-    'public/assets/row-right/darimata2.webp', 'public/assets/row-right/kk-figma.webp', 'public/assets/row-right/contact.webp',
-    'public/assets/row-right/koma.webp', 'public/assets/row-right/linera.webp', 'public/assets/row-right/loginbl.webp'
+    '/assets/row-right/cart-kk.webp', '/assets/row-right/cart-darimata.webp', '/assets/row-right/homebl.webp', 
+    '/assets/row-right/darimata2.webp', '/assets/row-right/kk-figma.webp', '/assets/row-right/contact.webp',
+    '/assets/row-right/koma.webp', '/assets/row-right/linera.webp', '/assets/row-right/loginbl.webp'
   ];
 
   return (
